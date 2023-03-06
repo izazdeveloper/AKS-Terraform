@@ -1,0 +1,18 @@
+# Compiled files
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+# plan files
+*.plan
+# Module directory
+.terraform/
+# Public key 
+id_rsa*
+# Terraform binary
+terraform
+kubectl
+get_helm.sh
+.prometheus-operator/
+.idea/
+
+
